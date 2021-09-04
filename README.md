@@ -1,7 +1,7 @@
 # portfolio-aguust-2021
 
 ## Live Demo
-https://evandaley.github.io/portfolio-august-2021/
+https://evandaley.github.io/video-sandbox/
 
 ## Project description
 A portfolio project built with React and Three.js
