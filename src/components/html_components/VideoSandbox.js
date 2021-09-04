@@ -34,8 +34,7 @@ export default function Navigation() {
 
     const draw = () => {
       offset = mouseState.x * SCALE_OFFSET
-      // console.log(mouseState.x)
-      ctx.drawImage(video, 0, 0, WIDTH, HEIGHT, 20, 0, WIDTH, HEIGHT)
+      ctx.drawImage(video, 0, 0, WIDTH, HEIGHT, 0, 0, WIDTH, HEIGHT)
       ctx.drawImage(video2, offset, 0, WIDTH-offset, HEIGHT, offset, 0, WIDTH-offset, HEIGHT)
       requestAnimationFrame(draw);
     }
