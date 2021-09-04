@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/video-sandbox/static/css/main.846b3f66.chunk.css",
-    "main.js": "/video-sandbox/static/js/main.71168f2d.chunk.js",
-    "main.js.map": "/video-sandbox/static/js/main.71168f2d.chunk.js.map",
+    "main.js": "/video-sandbox/static/js/main.5b281030.chunk.js",
+    "main.js.map": "/video-sandbox/static/js/main.5b281030.chunk.js.map",
     "runtime-main.js": "/video-sandbox/static/js/runtime-main.a3eeccbf.js",
     "runtime-main.js.map": "/video-sandbox/static/js/runtime-main.a3eeccbf.js.map",
-    "static/js/2.e82f0c38.chunk.js": "/video-sandbox/static/js/2.e82f0c38.chunk.js",
-    "static/js/2.e82f0c38.chunk.js.map": "/video-sandbox/static/js/2.e82f0c38.chunk.js.map",
+    "static/js/2.95fa3177.chunk.js": "/video-sandbox/static/js/2.95fa3177.chunk.js",
+    "static/js/2.95fa3177.chunk.js.map": "/video-sandbox/static/js/2.95fa3177.chunk.js.map",
     "static/js/3.e141576c.chunk.js": "/video-sandbox/static/js/3.e141576c.chunk.js",
     "static/js/3.e141576c.chunk.js.map": "/video-sandbox/static/js/3.e141576c.chunk.js.map",
     "index.html": "/video-sandbox/index.html",
     "static/css/main.846b3f66.chunk.css.map": "/video-sandbox/static/css/main.846b3f66.chunk.css.map",
-    "static/js/2.e82f0c38.chunk.js.LICENSE.txt": "/video-sandbox/static/js/2.e82f0c38.chunk.js.LICENSE.txt"
+    "static/js/2.95fa3177.chunk.js.LICENSE.txt": "/video-sandbox/static/js/2.95fa3177.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a3eeccbf.js",
-    "static/js/2.e82f0c38.chunk.js",
+    "static/js/2.95fa3177.chunk.js",
     "static/css/main.846b3f66.chunk.css",
-    "static/js/main.71168f2d.chunk.js"
+    "static/js/main.5b281030.chunk.js"
   ]
 }
