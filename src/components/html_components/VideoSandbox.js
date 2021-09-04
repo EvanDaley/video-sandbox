@@ -6,8 +6,8 @@ import mouseState from '../../mouseState.js'
 console.log("HERE")
 
 const baseVideoPath = document.location.origin + window.location.pathname + '/video/'
-const videoOne = baseVideoPath + 'blue_hex.mp4'
-const videoTwo = baseVideoPath + 'red_hex.mp4'
+const videoTwo = baseVideoPath + 'blue_hex.mp4'
+const videoOne = baseVideoPath + 'red_hex.mp4'
 const WIDTH = 1920;
 const HEIGHT = 1080;
 let offset = WIDTH >> 1
